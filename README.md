@@ -1,5 +1,4 @@
 # HawkEye - An Automated Violence Detection System for CCTVs
-
 With the increase of surveillance cameras in modern cities, there are insufficient human resource for monitoring all the screens at one time. In our project, we use machine learning techniques to detect violent behavior so a quick alarm can be given in time. This project is mainly intended to serve as an alarm system for the police/security forces to respond quickly to occasions of violence which can be curbed before they escalte out of control. 
 
 We have built and implemented an automated system which can be integrated with the CCTV Systems and will alarm the appropriate authorities whenever violent behavior is detected in an CCTV footage. The detection is done with the assistance of an ML Model implemented in TFLite, for lightweight and fast execution. This Model was trained on [RWF2000 Dataset](https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection) which is a collection of nearly 2000 video clips as a new data set for real-world violent behavior detection under surveillance camera.  
